@@ -7,6 +7,9 @@ public class Main{
 		System.out.println("佐々木ですです");
 		System.out.println("workブランチです");
 		System.out.println("eclipse");
+		System.out.println("eclipse");
+		System.out.println("eclipse");
+		System.out.println("eclipse");
 	}
 }
 
