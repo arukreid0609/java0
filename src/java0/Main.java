@@ -10,6 +10,7 @@ public class Main{
 		System.out.println("eclipse");
 		System.out.println("eclipse");
 		System.out.println("eclipse");
+		System.out.println("変更");
 	}
 }
 
